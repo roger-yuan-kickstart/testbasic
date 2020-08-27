@@ -12,6 +12,7 @@ public class TestbasicApplication {
     //GitHubTest4
     //GitHubTest5
     //GitHubTest6
+    //GitHubTest7
     public static void main(String[] args) {
         SpringApplication.run(TestbasicApplication.class, args);
     }
